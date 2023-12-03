@@ -42,6 +42,7 @@ dependencies:
   cached_network_image: ^3.2.0
 
 dev_dependencies:
+  integration_test:
   flutter_test:
     sdk: flutter
 
